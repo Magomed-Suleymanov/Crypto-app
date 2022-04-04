@@ -35,8 +35,3 @@
 - Git
 - GitHub
 - Heroku
-
-### Проект можно посмотреть:
-
-- [Код](https://github.com/Magomed-Suleymanov/Crypto-app) 
-- [Demo](https://ancient-inlet-45160.herokuapp.com/)
